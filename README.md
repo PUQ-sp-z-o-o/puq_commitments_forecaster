@@ -1,4 +1,4 @@
-# puq_commitments_forecaster
+# Commitments forecaster
 
 ---------------------------------------------------------------
 
@@ -6,7 +6,7 @@
 
 System for management and planning of outside and inside commitments.
 
-Functions:
+### Functions:
 
 - Adding PDF documents
 - Classification of documents by type
@@ -14,6 +14,8 @@ Functions:
 - Mapping documents to commitments
 - Importing invoices from accounting systems
 - Creation of reports and forecasts.
+
+### Installation Activation / Deactivation
 
 ### WHMCS part setup guide
 **Attention!!!**
@@ -28,6 +30,7 @@ Copy the module folder to the WHMCS
 ```
 
 Then in the administrator panel of WHMCS: 
+
 ```
 System Settings -> Addons Modules
 ```
