@@ -34,7 +34,7 @@
             {else}
                 <input type="checkbox" name="AutomaticSync">
             {/if}
-            <label for="AutomaticSync"><b>{$_lang['Automatic sync']}</b></label>
+            <label for="AutomaticSync"><b>{$_lang['Automatic sync']}</b></label><br>
             <label for="ExchangeRate"><b>{$_lang['Exchange rate']}</b></label><br>
             <input type=number step=0.0001 name="ExchangeRate" value="{$data.system['ExchangeRate']}" />
         </div>

@@ -18,7 +18,7 @@
                 <br><i>{$commitment.Description}</i></td>
             <td>
                 <a href="addonmodules.php?module=puq_commitments_forecaster&m=documents&action=agreement_edit&id={$commitment.AgreementId}">
-                    <b>{$commitment.AgreementNumber}</b><br><i>{$commitment.AgreementDescription}</i>
+                    <b>{$commitment.Agreement.Number}</b><br><i>{$commitment.Agreement.Description}</i>
                 </a>
             </td>
             <td>{$commitment.StartDate}</td>
@@ -27,7 +27,6 @@
                 {if $commitment.IndefinitePeriod == '1'}
                     <i style="font-size: 20px">&#8734;</i>
                 {/if}</td>
-
         </tr>
     {/foreach}
 

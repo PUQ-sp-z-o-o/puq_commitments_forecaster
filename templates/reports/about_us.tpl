@@ -36,16 +36,16 @@
 <br>
 {$_lang['Company site']}: <b><a target="_blank" href="https://puq.pl">https://puq.pl/</a></b>
 <br>
-<a target="_blank" href="https://puq.pl"><img width="181" height="61" src="https://puq.pl/wp-content/uploads/2020/11/logo-1.png" class="attachment-full size-full" alt="" loading="lazy"/></a>
+<a target="_blank" href="https://puq.pl/"><img width="181" height="61" src="https://puq.pl/wp-content/uploads/2020/11/logo-1.png" class="attachment-full size-full" alt="" loading="lazy"/></a>
 
 
-<a href="https://www.facebook.com/" target="_blank">
+<a href="https://www.facebook.com/PUQ-100280452476198/" target="_blank">
     <img src="/modules/addons/puq_commitments_forecaster/templates/img/facebook.png"/>
 </a>
-<a href="https://linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/company/puq-sp-z-o-o/" target="_blank">
     <img src="/modules/addons/puq_commitments_forecaster/templates/img/linkedin.png"/>
 </a>
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/puq.pl/" target="_blank">
     <img src="/modules/addons/puq_commitments_forecaster/templates/img/instagram.png"/>
 </a>
 <a href="https://github.com/PUQ-sp-z-o-o" target="_blank">

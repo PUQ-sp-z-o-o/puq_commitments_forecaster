@@ -45,11 +45,13 @@ Deactivating the module automatically deletes the tables in the database associa
 
 
 ---------------------------------------------------------------
-Testing:
+#### Testing:
+
 WHMCS: 8.1.0
 
 NextClous: 21.0.0
 
 --------------------------------------------------------------
+Full documentation can be found here.
 
-
+PL: https://doc.puq.info/books/instrukcja-w-jezyku-polskim
