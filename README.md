@@ -61,7 +61,11 @@ PL: https://doc.puq.info/books/pl-instrukcja-whmcs-cf
 ---------------------------------------------------------------
 
 The project was created as an amateur, but with a professional approach.
+
 The project is entirely financed by PUQ sp.z o.o. https://puq.pl/
 
-If you would like to help, with the development of the project, financially or in any other way, please let us know cf@puq.info
-www.puq.info
+If you would like to help, with the development of the project, financially or in any other way, please let us know 
+
+Contact: cf@puq.info
+
+Site: www.puq.info
