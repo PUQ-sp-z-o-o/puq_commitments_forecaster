@@ -1,6 +1,6 @@
 <h2>{$_lang['About us']}</h2>
 
-{$_lang['Project site']}: <b><a target="_blank" href="https://cf.puq.info">https://cf.puq.info/</a></b>
+{$_lang['Project site']}: <b><a target="_blank" href="https://puq.info">https://puq.info/</a></b>
 <br>
 {$_lang['Contact']}: <b>cf@puq.info</b>
     <br>
