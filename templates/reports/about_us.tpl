@@ -32,6 +32,8 @@
 </div>
 
 <hr>
+<b>{$_lang['Documentation']}:</b> <a target="_blank" href="https://doc.puq.info/shelves/commitments-forecaster-whmcs-moduel">https://doc.puq.info/shelves/commitments-forecaster-whmcs-moduel</a>
+<hr>
 {$_lang['Developed by']}: <b>PUQ sp. z o.o.</b>
 <br>
 {$_lang['Company site']}: <b><a target="_blank" href="https://puq.pl">https://puq.pl/</a></b>

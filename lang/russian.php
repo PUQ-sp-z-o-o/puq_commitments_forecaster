@@ -198,3 +198,4 @@ $_ADDONLANG['Developed by'] = "Разработано";
 $_ADDONLANG['Company site'] = "Сайт компании";
 $_ADDONLANG['Authors'] = "Авторы";
 $_ADDONLANG['Accounting systems'] = "Системы бухгалтерского учета";
+$_ADDONLANG['Documentation'] = "Документация";

@@ -198,3 +198,4 @@ $_ADDONLANG['Developed by'] = "Developed by";
 $_ADDONLANG['Company site'] = "Company site";
 $_ADDONLANG['Authors'] = "Authors";
 $_ADDONLANG['Accounting systems'] = "Accounting systems";
+$_ADDONLANG['Documentation'] = "Documentation";

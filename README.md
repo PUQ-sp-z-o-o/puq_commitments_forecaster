@@ -49,7 +49,7 @@ Deactivating the module automatically deletes the tables in the database associa
 
 WHMCS: 8.1.0
 
-NextClous: 21.0.0
+NextCloud: 21.0.0
 
 --------------------------------------------------------------
 Full documentation can be found here.
