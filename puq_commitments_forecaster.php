@@ -22,7 +22,7 @@ function puq_commitments_forecaster_config()
         'description' => 'System for management and planning of outside and inside commitments.',
         'author' => 'PUQ sp. z o.o.',
         'language' => 'english',
-        'version' => '0.1-alfa',
+        'version' => '0.1-alfa.1',
         'fields' => [
             'webdav URL' => [
                 'FriendlyName' => 'WebDAV URL HTTPS://',
