@@ -198,4 +198,5 @@ $_ADDONLANG['Developed by'] = "Developed by";
 $_ADDONLANG['Company site'] = "Company site";
 $_ADDONLANG['Authors'] = "Authors";
 $_ADDONLANG['Accounting systems'] = "Accounting systems";
-$_ADDONLANG['Documentation'] = "Documentation";
+$_ADDONLANG['The project needs your support to function and develop further.'] = "The project needs your support to function and develop further.";
+$_ADDONLANG['If you wish to help in the development of the project, be it financially, content-wise, translating, writing / proofreading documentation or in any other way, let us know'] = "If you wish to help in the development of the project, be it financially, content-wise, translating, writing / proofreading documentation or in any other way, let us know";

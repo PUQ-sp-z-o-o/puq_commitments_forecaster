@@ -199,3 +199,5 @@ $_ADDONLANG['Company site'] = "Strona firmowa";
 $_ADDONLANG['Authors'] = "Autorzy";
 $_ADDONLANG['Accounting systems'] = "Systemy księgowe";
 $_ADDONLANG['Documentation'] = "Dokumentacja";
+$_ADDONLANG['The project needs your support to function and develop further.'] = "Projekt potrzebuje Twojego wsparcia, aby funkcjonować i dalej się rozwijać.";
+$_ADDONLANG['If you wish to help in the development of the project, be it financially, content-wise, translating, writing / proofreading documentation or in any other way, let us know'] = "Jeśli chcesz pomóc w rozwoju projektu, czy to finansowo, merytorycznie, tłumacząc, pisząc/korekta dokumentacji lub w jakikolwiek inny sposób, daj nam znać";
