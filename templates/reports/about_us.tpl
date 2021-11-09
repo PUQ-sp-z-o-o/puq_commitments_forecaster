@@ -33,7 +33,7 @@
 <hr>
 {$_lang['The project needs your support to function and develop further.']}
 <br>
-{$_lang['If you wish to help in the development of the project, be it financially, content-wise, translating, writing / proofreading documentation or in any other way, let us know']} <b>cf@puq.info</b>
+{$_lang['If you wish to help in the development of the project, be it financially, content-wise, translating, writing/proofreading documentation or in any other way, let us know']} <b>cf@puq.info</b>
 <br>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
     <input type="hidden" name="hosted_button_id" value="RRE2FXARWUXQN" />
