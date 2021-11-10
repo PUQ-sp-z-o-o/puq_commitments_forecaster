@@ -5,6 +5,7 @@
  *
  * Author: Ruslan Poloviy ruslan.polovyi@puq.pl
  * PUQ sp. z o.o. www.puq.pl
+ * Poland
  */
 
 $_ADDONLANG['Finance Management'] = "Finance Management";
