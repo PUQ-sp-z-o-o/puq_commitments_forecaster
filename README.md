@@ -25,9 +25,22 @@ Failure to do so makes it impossible to use the system.
 PDF files are stored on the NextCloud server and cataloged by type and date of the document (date entered in the document, example: date of receipt of the invoice)
 
 Copy the module folder to the WHMCS 
-```
+``
 "modules/addons" 
+``
+
+From GitHUB
 ```
+git clone https://github.com/PUQ-sp-z-o-o/puq_commitments_forecaster.git
+cp -r puq_commitments_forecaster WHMCS_DIR/modules/addons/
+```
+or 
+```
+wget https://cf.puq.info/whmcs-module/puq_cf_WHMCS-latest.tar.gz
+tar -xzvf puq_cf_WHMCS-latest.tar.gz
+cp -r puq_commitments_forecaster WHMCS_DIR/modules/addons/
+```
+
 
 Then in the administrator panel of WHMCS: 
 
