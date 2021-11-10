@@ -1,5 +1,12 @@
 <?php
-
+/*
+ * This file is part of the WHMCS module. "Commitments forecaster"
+ * System for management and planning of outside and inside commitments.
+ *
+ * Author: Ruslan Poloviy ruslan.polovyi@puq.pl
+ * PUQ sp. z o.o. www.puq.pl
+ * Poland
+ */
 namespace WHMCS\Module\Addon\puq_commitments_forecaster\Admin;
 
 use WHMCS\Database\Capsule;

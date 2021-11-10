@@ -5,6 +5,7 @@
  *
  * Author: Ruslan Poloviy ruslan.polovyi@puq.pl
  * PUQ sp. z o.o. www.puq.pl
+ * Poland
  */
 
 namespace WHMCS\Module\Addon\puq_commitments_forecaster\Admin;

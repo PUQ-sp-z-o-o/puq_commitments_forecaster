@@ -5,6 +5,7 @@
  *
  * Author: Ruslan Poloviy ruslan.polovyi@puq.pl
  * PUQ sp. z o.o. www.puq.pl
+ * Poland
  */
 
 use WHMCS\Database\Capsule;
@@ -466,9 +467,7 @@ function puq_commitments_forecaster_sidebar($vars)
         });
     }
 </script>
-
     ';
 
     return $sidebar;
 }
-
